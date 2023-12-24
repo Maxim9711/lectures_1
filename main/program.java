@@ -8,6 +8,7 @@
 // Обращаться к пакету чере точку, не через слеш
 // java -classpath ./bin program
 
+package main;
 
 import testLib.lib;
 

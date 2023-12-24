@@ -1,0 +1,29 @@
+[33mcommit fc590a0d96b98c07bd1ec29e51f259346e677416[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Max <Bruce.97@mail.ru>
+Date:   Sun Dec 24 09:59:06 2023 +0700
+
+    test use compiled files
+
+[33mcommit e0ff8ff251545a338302f3d27dba9eae15c160bb[m
+Author: Max <Bruce.97@mail.ru>
+Date:   Sun Dec 24 09:34:03 2023 +0700
+
+    add compiled files and comment (how it works)
+
+[33mcommit 58e6352a84cd29ae73c9109b032a0ea938b64311[m
+Author: Max <Bruce.97@mail.ru>
+Date:   Sun Dec 24 09:19:19 2023 +0700
+
+    test use package
+
+[33mcommit 861ebe7507814bc8b34495579c10fe3444ad0339[m
+Author: Maxim9711 <76033977+Maxim9711@users.noreply.github.com>
+Date:   Wed Dec 20 06:06:57 2023 +0700
+
+    Create README.md
+
+[33mcommit 03d4d9c46091a93643d1d23117c77118707763fd[m
+Author: Max <Bruce.97@mail.ru>
+Date:   Wed Dec 20 06:04:15 2023 +0700
+
+    just Hi
