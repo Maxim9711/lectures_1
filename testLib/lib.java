@@ -1,5 +1,8 @@
+package testLib;
+
+
 public class lib {
-    static void sayHi(){
+    public static void sayHi(){
         System.out.println("hi");
     }
 }
